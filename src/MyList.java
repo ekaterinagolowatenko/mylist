@@ -120,6 +120,7 @@ public class MyList {
         return result;
     }
 
+
     public void clear() {
         size = 0;
     }
